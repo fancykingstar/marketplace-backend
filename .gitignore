@@ -1,0 +1,5 @@
+.env
+node_modules
+configs/keys_dev.js
+configs/keys_prod.js
+package-lock.json
